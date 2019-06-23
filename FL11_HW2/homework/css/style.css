@@ -56,7 +56,6 @@ section.heading h2 {
   background: #76cdd7;
   color: white;
 }
-
 .form-control:focus::placeholder {
   color: white;
 }
